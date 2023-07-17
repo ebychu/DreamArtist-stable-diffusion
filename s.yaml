@@ -1,5 +1,5 @@
 name: automatic
-edition: 1.0
+edition: 1.0.0
 channels:
   - pytorch
   - defaults
