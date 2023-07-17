@@ -1,2 +1,7 @@
 name: automatic
 edition: 1.0.0
+service:
+    name: unit-deploy-service
+    description: 'demo for fc-deploy component'
+    internetAccess: tru
+
